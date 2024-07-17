@@ -29,9 +29,9 @@
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo
 
-Funções: Aprendi a usar funções de maneira mais eficaz tornando o codigo mais organizado .
-Tipos de Dados II: Adquiri mais o conhecimento a respeito da ferramenta.
-Gestão de Tempo: Aprendi a me organizar resultando em uma melhor produtividade.
-Tipos Utilitários: adiquiri mais conhecimento a respeito da ferramenta.
-LinkedIn: Remodelei meu perfil profissional no linkedin deixando mais atrativo.
+- Funções: Aprendi a usar funções de maneira mais eficaz tornando o codigo mais organizado .
+- Tipos de Dados II: Adquiri mais o conhecimento a respeito da ferramenta.
+- Gestão de Tempo: Aprendi a me organizar resultando em uma melhor produtividade.
+- Tipos Utilitários: adiquiri mais conhecimento a respeito da ferramenta.
+- LinkedIn: Remodelei meu perfil profissional no linkedin deixando mais atrativo.
 
